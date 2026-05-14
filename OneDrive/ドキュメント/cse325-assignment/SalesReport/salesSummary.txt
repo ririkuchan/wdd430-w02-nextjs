@@ -1,0 +1,7 @@
+Sales Summary
+----------------------------
+ Total Sales: ¥2,500
+
+ Details:
+  sales.json: ¥1,000
+  2023.json: ¥1,500
